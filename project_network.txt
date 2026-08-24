@@ -6,3 +6,4 @@
 ||animeruku.com^
 ||test.com^
 ||anime-uku.com^
+||facebook.com^
